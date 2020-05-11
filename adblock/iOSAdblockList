@@ -2,7 +2,7 @@
 #
 #  Ultimate Host List for Mobile Adblockers (Focused on iOS)
 #
-#  Entries     | 15065
+#  Entries     | 15063
 #  Last update | May 10th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 
@@ -2194,8 +2194,6 @@
 :: ads.cc
 0.0.0.0 ads.cc-dt.com
 :: ads.cc-dt.com
-0.0.0.0 ads.ccgateway.net
-:: ads.ccgateway.net
 0.0.0.0 ads.cdn.rovio.com
 :: ads.cdn.rovio.com
 0.0.0.0 ads.celtra.com
