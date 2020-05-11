@@ -2,7 +2,7 @@
 #
 #  Ultimate Host List for Mobile Adblockers (Focused on iOS)
 #
-#  Entries     | 15063
+#  Entries     | 15061
 #  Last update | May 10th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 
@@ -4638,8 +4638,6 @@
 :: analytics.blueoxtech.com
 0.0.0.0 analytics.carambo.la
 :: analytics.carambo.la
-0.0.0.0 analytics.ccgateway.net
-:: analytics.ccgateway.net
 0.0.0.0 analytics.chartboost.com
 :: analytics.chartboost.com
 0.0.0.0 analytics.chase.com
