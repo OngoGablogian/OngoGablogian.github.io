@@ -2,7 +2,7 @@
 #
 #  Ultimate Host List for Mobile Adblockers (Focused on iOS)
 #
-#  Entries     | 15067
+#  Entries     | 15065
 #  Last update | May 10th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 
@@ -8258,8 +8258,6 @@
 :: cca.mob.com
 0.0.0.0 ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
 :: ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
-0.0.0.0 ccgateway.net
-:: ccgateway.net
 0.0.0.0 ccisea-d.openx.net
 :: ccisea-d.openx.net
 0.0.0.0 ccp.mobileappsuite.com
