@@ -2,8 +2,8 @@
 #
 #  Optimized for Mobile (iOS/Android)
 #
-#  Entries     | 52177  
-#  Last update | May 13th 2020 19:54 CEST
+#  Entries     | 52175
+#  Last update | May 13th 2020 23:03 CEST
 #  Info/Issues | https://redd.it/dwxgld
 
 127.0.0.1       localhost
@@ -19414,8 +19414,6 @@
 :: ciridola.com
 0.0.0.0 cirm.lsj.com
 :: cirm.lsj.com
-0.0.0.0 citi.bridgetrack.com
-:: citi.bridgetrack.com
 0.0.0.0 citi.bridgetrack.com.edgesuite.net
 :: citi.bridgetrack.com.edgesuite.net
 0.0.0.0 citinnoiddidn.pro
@@ -76354,8 +76352,6 @@
 :: www.brekdok.com
 0.0.0.0 www.bressey.com
 :: www.bressey.com
-0.0.0.0 www.bridgetrack.com
-:: www.bridgetrack.com
 0.0.0.0 www.bridgevine.com
 :: www.bridgevine.com
 0.0.0.0 www.brightedge.com
@@ -104352,5 +104348,5 @@
 :: zzz.clickbank.net
 0.0.0.0 zzznews.ru
 :: zzznews.ru
-zzztech.com
-zzztech.com
+0.0.0.0 zzztech.com
+:: zzztech.com
