@@ -5,8 +5,8 @@
 #  (  O )(\___ \) D (   ) _ / (_/(  O ( (__ )  (/ (_/\)(\___ \ )( 
 #   \__(__(____(____/  (____\____/\__/ \___(__\_\____(__(____/(__)
 #
-#  Entries     | 26472 
-#  Last update | May 19th 2020 22:05 CEST
+#  Entries     | 26473  
+#  Last update | May 20th 2020 19:18 CEST
 #  Info/Issues | https://redd.it/gjn972
 
 127.0.0.1       localhost
@@ -7373,6 +7373,8 @@
 :: api.ad.intl.xiaomi.com
 0 api.ad.xiaomi.com
 :: api.ad.xiaomi.com
+0 api.adnet.mob.com
+:: api.adnet.mob.com
 0 api.ads.watchabc.go.com
 :: api.ads.watchabc.go.com
 0 api.adxcorp.kr
@@ -7383,6 +7385,8 @@
 :: api.analytics.omgpop.com
 0 api.appfireworks.com
 :: api.appfireworks.com
+0 api.applovefrom.com
+:: api.applovefrom.com
 0 api.appnxt.net
 :: api.appnxt.net
 0 api.appsee.com
@@ -19653,6 +19657,8 @@
 :: iaflstore.jp
 0 iam-agof-app.irquest.com
 :: iam-agof-app.irquest.com
+0 iam.datasavannah.com
+:: iam.datasavannah.com
 0 iamnotageek.us.intellitxt.com
 :: iamnotageek.us.intellitxt.com
 0 ias.hitbox.com
@@ -31067,6 +31073,8 @@
 :: seznam.hit.gemius.pl
 0 sf14g.com
 :: sf14g.com
+0 sf3-ttcdn-tos.pstatp.com
+:: sf3-ttcdn-tos.pstatp.com
 0 sfondatanale.com
 :: sfondatanale.com
 0 sftp.clickability.com
@@ -31569,6 +31577,8 @@
 :: snoobi.com
 0 snowsignal.com
 :: snowsignal.com
+0 snssdk.com
+:: snssdk.com
 0 socalmovies.com
 :: socalmovies.com
 0 soccergaming.us.intellitxt.com
@@ -45629,8 +45639,6 @@
 :: www.loggerx.com
 0 www.logging.to
 :: www.logging.to
-0 www.loggly.com
-:: www.loggly.com
 0 www.logly.co.jp
 :: www.logly.co.jp
 0 www.logmatic.io
@@ -49195,6 +49203,8 @@
 :: www.snoobi.com
 0 www.snowsignal.com
 :: www.snowsignal.com
+0 www.snssdk.com
+:: www.snssdk.com
 0 www.socalmovies.com
 :: www.socalmovies.com
 0 www.social-sb.com
