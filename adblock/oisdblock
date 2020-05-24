@@ -4,16 +4,14 @@
 #  (  O )(\___ \) D (   ) _ / (_/(  O ( (__ )  (/ (_/\)(\___ \ )( 
 #   \__(__(____(____/  (____\____/\__/ \___(__\_\____(__(____/(__)
 #
-#  Entries     | 71699  
-#  Last update | May 24th 2020 00:19 CEST
+#  Entries     | 71684  
+#  Last update | May 24th 2020 09:30 CEST
 #  Info/Issues | https://redd.it/gjn972
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
 ::1             localhost
 
-0 0.nextyourcontent.com
-:: 0.nextyourcontent.com
 0 0.r.msn.com
 :: 0.r.msn.com
 0 000dn.com
@@ -3590,6 +3588,8 @@
 :: 9y88.com
 0 9yyg.cn
 :: 9yyg.cn
+0 =0.nextyourcontent.com
+:: =0.nextyourcontent.com
 0 a-a-access.com
 :: a-a-access.com
 0 a-ads.com
@@ -4412,8 +4412,6 @@
 :: abbyychina.com
 0 abc-ads.com
 :: abc-ads.com
-0 abc-australia.press
-:: abc-australia.press
 0 abc.abcdserver.com
 :: abc.abcdserver.com
 0 abc.checkm8.com
@@ -18676,8 +18674,6 @@
 :: audacity.es
 0 audacity.fr
 :: audacity.fr
-0 audailyreport.press
-:: audailyreport.press
 0 audersmi.com
 :: audersmi.com
 0 audible.112.2o7.net
@@ -44182,8 +44178,6 @@
 :: gingardo.com
 0 gingert.net
 :: gingert.net
-0 ginrao-arc.info
-:: ginrao-arc.info
 0 gioorrs.pro
 :: gioorrs.pro
 0 giosany.com
@@ -49286,8 +49280,6 @@
 :: ihabkcy.xyz
 0 ihais.com
 :: ihais.com
-0 iharoa.info
-:: iharoa.info
 0 ihc.112.2o7.net
 :: ihc.112.2o7.net
 0 ihear123.com
@@ -81376,8 +81368,6 @@
 :: spaceshooter.rocketstudio.com.vn
 0 spacewalk.info
 :: spacewalk.info
-0 spade.twitch.tv
-:: spade.twitch.tv
 0 spads.yamx.com
 :: spads.yamx.com
 0 spahelani.com
@@ -99436,8 +99426,6 @@
 :: www.abbyychina.com
 0 www.abc-ads.com
 :: www.abc-ads.com
-0 www.abc-australia.press
-:: www.abc-australia.press
 0 www.abcjmp.com
 :: www.abcjmp.com
 0 www.abckj123.com
@@ -99534,8 +99522,6 @@
 :: www.accelacomm.com
 0 www.acceptableserver.com
 :: www.acceptableserver.com
-0 www.acceptionijes.site
-:: www.acceptionijes.site
 0 www.accerispartners.com
 :: www.accerispartners.com
 0 www.accesoplugin.com
@@ -99606,8 +99592,6 @@
 :: www.acnenomor.com
 0 www.aconti.net
 :: www.aconti.net
-0 www.acreditonamelhoraemcasa.com
-:: www.acreditonamelhoraemcasa.com
 0 www.acrididae.com
 :: www.acrididae.com
 0 www.acronym.com
@@ -103886,8 +103870,6 @@
 :: www.audacity.es
 0 www.audacity.fr
 :: www.audacity.fr
-0 www.audailyreport.press
-:: www.audailyreport.press
 0 www.audersmi.com
 :: www.audersmi.com
 0 www.audience2media.com
@@ -114204,8 +114186,6 @@
 :: www.gingardo.com
 0 www.gingert.net
 :: www.gingert.net
-0 www.ginrao-arc.info
-:: www.ginrao-arc.info
 0 www.giosany.com
 :: www.giosany.com
 0 www.giotyo.com
@@ -115122,8 +115102,6 @@
 :: www.halthprotect.rest
 0 www.hamjgkzgycmur.com
 :: www.hamjgkzgycmur.com
-0 www.hamubay.xyz
-:: www.hamubay.xyz
 0 www.handbrake.es
 :: www.handbrake.es
 0 www.handy-ads.de
@@ -116606,8 +116584,6 @@
 :: www.ihabkcy.xyz
 0 www.ihais.com
 :: www.ihais.com
-0 www.iharoa.info
-:: www.iharoa.info
 0 www.ihookupdaily.com
 :: www.ihookupdaily.com
 0 www.ihosetch.com
@@ -125258,8 +125234,6 @@
 :: www.parameter.dk
 0 www.parandeya.com
 :: www.parandeya.com
-0 www.paravoce.beer
-:: www.paravoce.beer
 0 www.pardous.com
 :: www.pardous.com
 0 www.paripartner.com
@@ -126488,8 +126462,6 @@
 :: www.pr0gram.org
 0 www.pr33.cn
 :: www.pr33.cn
-0 www.practingunef.site
-:: www.practingunef.site
 0 www.praddpro.de
 :: www.praddpro.de
 0 www.pragueline.com
@@ -135162,8 +135134,6 @@
 :: www.uvomthuqsqx.com
 0 www.uvsea.cn
 :: www.uvsea.cn
-0 www.uwmoghx.cn
-:: www.uwmoghx.cn
 0 www.uwonderful.ru
 :: www.uwonderful.ru
 0 www.uwsxz.com
