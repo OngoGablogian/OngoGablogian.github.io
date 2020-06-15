@@ -2,8 +2,8 @@
 #
 #  Ultimate Host List for Mobile Adblockers (Focused on iOS)
 #
-#  Entries     | 15001
-#  Last update | May 28th 2020
+#  Entries     | 14998
+#  Last update | Jun 14th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 
 127.0.0.1       localhost
@@ -14592,8 +14592,6 @@
 :: ibv.lijit.com
 0 ibza.romsenergy.com
 :: ibza.romsenergy.com
-0 icanhazip.com
-:: icanhazip.com
 0 icann.com
 :: icann.com
 0 ichannel-tb.isnssdk.com
@@ -26628,8 +26626,6 @@
 :: tp-emea.exactag.com
 0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 :: tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-0 tp.3fadf2433-frontier.imdb.com
-:: tp.3fadf2433-frontier.imdb.com
 0 tpa-d.openx.net
 :: tpa-d.openx.net
 0 tpbid.com
