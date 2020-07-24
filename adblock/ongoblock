@@ -2,8 +2,8 @@
 #
 #  A combination of three iOS Adblock lists
 #
-#  Entries     | 20656
-#  Last update | July 18th 2020
+#  Entries     | 20678
+#  Last update | July 24th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 #              | https://github.com/jakejarvis/ios-trackers
 #              | https://ceadd.ca/blockyoux/
@@ -482,6 +482,8 @@
 :: a-usa.applovin.com
 0 a-v2.presage.io
 :: a-v2.presage.io
+0 a.0day.kiev.ua
+:: a.0day.kiev.ua
 0 a.2edd6c0fea91f88494d1cc37672db524.com
 :: a.2edd6c0fea91f88494d1cc37672db524.com
 0 a.3fdf2a5f924760915ca68b5ad01cfdae.com
@@ -724,6 +726,8 @@
 :: a3.mediagra.com
 0 a301.w62d.akamai.net
 :: a301.w62d.akamai.net
+0 a32.g.a.yimg.com
+:: a32.g.a.yimg.com
 0 a50.g2.akamai.net
 :: a50.g2.akamai.net
 0 a5a5a.com
@@ -876,6 +880,8 @@
 :: accounts.doubleclick.net
 0 accounts.pkr.com
 :: accounts.pkr.com
+0 accounts.pkr.com.invalid
+:: accounts.pkr.com.invalid
 0 accscdn.m.taobao.com
 :: accscdn.m.taobao.com
 0 acdn.adnxs.com
@@ -1038,6 +1044,8 @@
 :: ad-gbn.com
 0 ad-goi.com
 :: ad-goi.com
+0 ad-images.suntimes.com
+:: ad-images.suntimes.com
 0 ad-l1.media6degrees.com
 :: ad-l1.media6degrees.com
 0 ad-l2.media6degrees.com
@@ -1096,6 +1104,8 @@
 :: ad-tag.inner-active.mobi
 0 ad-tech.com
 :: ad-tech.com
+0 ad-tech.nbcuni.com
+:: ad-tech.nbcuni.com
 0 ad-up.com
 :: ad-up.com
 0 ad-us-west.ipredictive.com
@@ -1140,6 +1150,8 @@
 :: ad.abctv.com
 0 ad.about.com
 :: ad.about.com
+0 ad.aboutit.de
+:: ad.aboutit.de
 0 ad.aboutwebservices.com
 :: ad.aboutwebservices.com
 0 ad.abum.com
@@ -1304,6 +1316,8 @@
 :: ad.duapps.com
 0 ad.duga.jp
 :: ad.duga.jp
+0 ad.e-kolay.net
+:: ad.e-kolay.net
 0 ad.easou.com
 :: ad.easou.com
 0 ad.ecplaza.net
@@ -1340,6 +1354,8 @@
 :: ad.gate24.ch
 0 ad.globalismedia.com
 :: ad.globalismedia.com
+0 ad.globe7.com
+:: ad.globe7.com
 0 ad.go.affec.tv
 :: ad.go.affec.tv
 0 ad.gr.doubleclick.net
@@ -1512,6 +1528,8 @@
 :: ad.nz.doubleclick.net
 0 ad.omni.se
 :: ad.omni.se
+0 ad.onad.eu
+:: ad.onad.eu
 0 ad.open.uc.cn
 :: ad.open.uc.cn
 0 ad.org.vn
@@ -1574,6 +1592,8 @@
 :: ad.si.doubleclick.net
 0 ad.simgames.net
 :: ad.simgames.net
+0 ad.slutload.com
+:: ad.slutload.com
 0 ad.smaad.jp
 :: ad.smaad.jp
 0 ad.smartclip.net
@@ -1598,6 +1618,8 @@
 :: ad.th.doubleclick.net
 0 ad.thewheelof.com
 :: ad.thewheelof.com
+0 ad.top50.to
+:: ad.top50.to
 0 ad.toutiao.com
 :: ad.toutiao.com
 0 ad.turn.com
@@ -1626,6 +1648,8 @@
 :: ad.vrvm.com
 0 ad.wanfangdata.com.cn
 :: ad.wanfangdata.com.cn
+0 ad.watch.impress.co.jp
+:: ad.watch.impress.co.jp
 0 ad.wavu.hu
 :: ad.wavu.hu
 0 ad.way.cz
@@ -1720,6 +1744,10 @@
 :: ad2.easou.com
 0 ad2.iinfo.cz
 :: ad2.iinfo.cz
+0 ad2.ip.ro
+:: ad2.ip.ro
+0 ad2.linxcz.cz
+:: ad2.linxcz.cz
 0 ad2.lupa.cz
 :: ad2.lupa.cz
 0 ad2.nend.net
@@ -1852,6 +1880,8 @@
 :: adblockanalytics.com
 0 adbma.com
 :: adbma.com
+0 adboost.de.vu
+:: adboost.de.vu
 0 adboost.net
 :: adboost.net
 0 adbooth.com
@@ -1984,8 +2014,6 @@
 :: adcolo.com
 0 adcolony-east-bidder.manage.com
 :: adcolony-east-bidder.manage.com
-0 adcolony.com
-:: adcolony.com
 0 adcolony.com
 :: adcolony.com
 0 adcome.cn
@@ -2228,6 +2256,8 @@
 :: adhostingsolutions.com
 0 adi.admicro.vn
 :: adi.admicro.vn
+0 adi.mainichi.co.jp
+:: adi.mainichi.co.jp
 0 adicate.com
 :: adicate.com
 0 adigniter.org
@@ -2236,6 +2266,8 @@
 :: adigou.com
 0 adikteev.com
 :: adikteev.com
+0 adimage.asiaone.com.sg
+:: adimage.asiaone.com.sg
 0 adimage.guardian.co.uk
 :: adimage.guardian.co.uk
 0 adimages.been.com
@@ -2464,6 +2496,8 @@
 :: adman.ee
 0 adman.gr
 :: adman.gr
+0 adman.in.gr
+:: adman.in.gr
 0 adman.otenet.gr
 :: adman.otenet.gr
 0 admanage.com
@@ -2702,8 +2736,6 @@
 :: adn.atdmt.com
 0 adn.ebay.com
 :: adn.ebay.com
-0 adn.fusionads.net
-:: adn.fusionads.net
 0 adn.fusionads.net
 :: adn.fusionads.net
 0 adn.insight.ucweb.com
@@ -4608,18 +4640,18 @@
 :: adsassets.waze.com
 0 adsatt.abc.starwave.com
 :: adsatt.abc.starwave.com
-0 adsatt.abcnews.starwave.com
-:: Adsatt.ABCNews.starwave.com
-0 adsatt.abcnews.starwave.com
-:: Adsatt.ABCNews.starwave.com
+0 Adsatt.ABCNews.starwave.com
+:: adsatt.abcnews.starwave.com
+0 Adsatt.ABCNews.starwave.com
+:: adsatt.abcnews.starwave.com
 0 adsatt.espn.go.com
 :: adsatt.espn.go.com
 0 adsatt.espn.starwave.com
 :: adsatt.espn.starwave.com
-0 adsatt.go.starwave.com
-:: Adsatt.go.starwave.com
-0 adsatt.go.starwave.com
-:: Adsatt.go.starwave.com
+0 Adsatt.go.starwave.com
+:: adsatt.go.starwave.com
+0 Adsatt.go.starwave.com
+:: adsatt.go.starwave.com
 0 adsb4track.com
 :: adsb4track.com
 0 adsbookie.com
@@ -17722,6 +17754,8 @@
 :: freetheapps.com
 0 freewebcounter.com
 :: freewebcounter.com
+0 freewheel.com
+:: freewheel.com
 0 freewheel.tv
 :: freewheel.tv
 0 fresh8.co
@@ -18270,6 +18304,8 @@
 :: getpopunder.com
 0 getscorecash.com
 :: getscorecash.com
+0 getsentry.net
+:: getsentry.net
 0 getwisdom.io
 :: getwisdom.io
 0 gew1-accesspoint-a-pn85.ap.spotify.com
@@ -18782,6 +18818,8 @@
 :: gtsads.com
 0 gtsdk.batmobi.net
 :: gtsdk.batmobi.net
+0 gtsmobi.com
+:: gtsmobi.com
 0 gtssl2-ocsp.geotrust.com
 :: gtssl2-ocsp.geotrust.com
 0 gu-pix.appspot.com
@@ -19362,6 +19400,8 @@
 :: hr.casalemedia.com
 0 hs-analytics.net
 :: hs-analytics.net
+0 hs-growth-metrics.com
+:: hs-growth-metrics.com
 0 hs-scripts.com
 :: hs-scripts.com
 0 hsadspixel.net
@@ -19872,7 +19912,9 @@
 :: ilbanner.com
 0 ilead.itrack.it
 :: ilead.itrack.it
-0 iliilllio00oo0.321.cn
+0 iliillliO00OO0.321.cn
+:: iliilllio00oo0.321.cn
+0 iliillliO00OO0.321.cn
 :: iliilllio00oo0.321.cn
 0 illfatedsnail.com
 :: illfatedsnail.com
@@ -27288,6 +27330,8 @@
 :: peer39.com
 0 peer39.net
 :: peer39.net
+0 pendo.io
+:: pendo.io
 0 pennyweb.com
 :: pennyweb.com
 0 penske-tagan.adlightning.com
@@ -27310,6 +27354,8 @@
 :: perf-events.cloud.unity3d.com
 0 perf.cdnads.com
 :: perf.cdnads.com
+0 perf.hsforms.com
+:: perf.hsforms.com
 0 perf.mmstat.com
 :: perf.mmstat.com
 0 perf.weborama.fr
@@ -32902,8 +32948,6 @@
 :: srepdata.usatoday.com
 0 srv.bebi.com
 :: srv.bebi.com
-0 srv.buysellads.com
-:: srv.buysellads.com
 0 srv.buysellads.com
 :: srv.buysellads.com
 0 srv.carbon.net
