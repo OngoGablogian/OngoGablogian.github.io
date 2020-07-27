@@ -2,7 +2,7 @@
 #
 #  A combination of three iOS Adblock lists
 #
-#  Entries     | 20678
+#  Entries     | 20766
 #  Last update | July 24th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 #              | https://github.com/jakejarvis/ios-trackers
@@ -20,10 +20,14 @@
 :: 050003.voodoo.io
 0 050005.voodoo.io
 :: 050005.voodoo.io
+0 050y9lhe8p.com
+:: 050y9lhe8p.com
 0 0914.global.ssl.fastly.net
 :: 0914.global.ssl.fastly.net
 0 0c3-a.tlnk.io
 :: 0c3-a.tlnk.io
+0 0i0i0i0.com
+:: 0i0i0i0.com
 0 0icep80f.com
 :: 0icep80f.com
 0 1-100-62-1.b.cdn13.com
@@ -340,6 +344,8 @@
 :: 5gl1x9qc.com
 0 5mcwl.pw
 :: 5mcwl.pw
+0 5pr1sfzsl9.com
+:: 5pr1sfzsl9.com
 0 5rocks.io
 :: 5rocks.io
 0 5thfinger.com
@@ -426,6 +432,8 @@
 :: 888promos.com
 0 8live.com
 :: 8live.com
+0 8ozhygzz5eke.com
+:: 8ozhygzz5eke.com
 0 8rzt.adj.st
 :: 8rzt.adj.st
 0 8s8.eu
@@ -442,6 +450,8 @@
 :: 94vs.adj.st
 0 959cad30.api.splkmobile.com
 :: 959cad30.api.splkmobile.com
+0 970ztqtss4.com
+:: 970ztqtss4.com
 0 97d73lsi.com
 :: 97d73lsi.com
 0 97uq.adj.st
@@ -620,6 +630,8 @@
 :: a.niholaev.com
 0 a.nytimes.com
 :: a.nytimes.com
+0 a.o333o.com
+:: a.o333o.com
 0 a.optinmonster.com
 :: a.optinmonster.com
 0 a.optmnstr.com
@@ -2078,6 +2090,8 @@
 :: addthis.mathtag.com
 0 addthisedge.com
 :: addthisedge.com
+0 addtoany.com
+:: addtoany.com
 0 addynamo.net
 :: addynamo.net
 0 ade-beta.media6degrees.com
@@ -2598,6 +2612,8 @@
 :: admin.appnext.com
 0 admin.brightcove.com
 :: admin.brightcove.com
+0 admin.bullion.media
+:: admin.bullion.media
 0 admin.leanplum.com
 :: admin.leanplum.com
 0 admin.ninebox.cn
@@ -3780,6 +3796,8 @@
 :: ads.jubii.dk
 0 ads.juicyads.com
 :: ads.juicyads.com
+0 ads.juicyads.me
+:: ads.juicyads.me
 0 ads.justhungry.com
 :: ads.justhungry.com
 0 ads.justpremium.com
@@ -4110,6 +4128,8 @@
 :: ads.rcs.it
 0 ads.rd.linksynergy.com
 :: ads.rd.linksynergy.com
+0 ads.realsrv.com
+:: ads.realsrv.com
 0 ads.recoletos.es
 :: ads.recoletos.es
 0 ads.reddit.com
@@ -5384,6 +5404,8 @@
 :: adultbaron.com
 0 adultfriendfinder.com
 :: adultfriendfinder.com
+0 adultfunseeker.com
+:: adultfunseeker.com
 0 adulthosting.com
 :: adulthosting.com
 0 adultimate.net
@@ -6236,6 +6258,8 @@
 :: allabc.com
 0 alladvantage.com
 :: alladvantage.com
+0 alle-modeller.com
+:: alle-modeller.com
 0 allmedia-d.openx.net
 :: allmedia-d.openx.net
 0 allmt.com
@@ -8554,6 +8578,8 @@
 :: as-v1.prod.cloud.ogury.io
 0 as-y-atwola-com.geo.adtechus.com
 :: as-y-atwola-com.geo.adtechus.com
+0 as.2020mustang.com
+:: as.2020mustang.com
 0 as.ad-brix.com
 :: as.ad-brix.com
 0 as.adfonic.net
@@ -8882,6 +8908,8 @@
 :: au.youmi.net
 0 au1.flamingtext.com
 :: au1.flamingtext.com
+0 au79nt5wic4x.com
+:: au79nt5wic4x.com
 0 aucollector.tealeaf.ibmcloud.com
 :: aucollector.tealeaf.ibmcloud.com
 0 auction.unityads.unity3d.com
@@ -10834,6 +10862,8 @@
 :: c.socialannex.com
 0 c.statcounter.com
 :: c.statcounter.com
+0 c.stripst.com
+:: c.stripst.com
 0 c.tapinfluence.com
 :: c.tapinfluence.com
 0 c.trackmytarget.com
@@ -11730,6 +11760,8 @@
 :: cdn.natpal.com
 0 cdn.nearbyad.com
 :: cdn.nearbyad.com
+0 cdn.nsimg.net
+:: cdn.nsimg.net
 0 cdn.o333o.com
 :: cdn.o333o.com
 0 cdn.oas-c17.adnxs.com
@@ -11780,6 +11812,8 @@
 :: cdn.puffnetwork.com
 0 cdn.punchh.com
 :: cdn.punchh.com
+0 cdn.pushalert.co
+:: cdn.pushalert.co
 0 cdn.pushcrew.com
 :: cdn.pushcrew.com
 0 cdn.pushwoosh.com
@@ -11886,6 +11920,8 @@
 :: cdn.triggertag.gorillanation.com
 0 cdn.tsyndicate.com
 :: cdn.tsyndicate.com
+0 cdn.tsyndicate.com.fpbns.net
+:: cdn.tsyndicate.com.fpbns.net
 0 cdn.unid.go.com
 :: cdn.unid.go.com
 0 cdn.unityads.unity3d.com
@@ -11968,6 +12004,12 @@
 :: cdn1.zoomanalytics.co
 0 cdn11.contentabc.com
 :: cdn11.contentabc.com
+0 cdn15.acloudimages.com
+:: cdn15.acloudimages.com
+0 cdn15.acloudimages.com.i.belugacdn.com
+:: cdn15.acloudimages.com.i.belugacdn.com
+0 cdn1ht.traffichaus.com
+:: cdn1ht.traffichaus.com
 0 cdn2-analytics.ladmedia.fr
 :: cdn2-analytics.ladmedia.fr
 0 cdn2.admatic.com.tr
@@ -11990,6 +12032,8 @@
 :: cdn2.motrixi.com
 0 cdn2.reporo.net
 :: cdn2.reporo.net
+0 cdn2.sexroom.xxx
+:: cdn2.sexroom.xxx
 0 cdn2.sponsorpay.com
 :: cdn2.sponsorpay.com
 0 cdn2.spoutable.com
@@ -13072,6 +13116,8 @@
 :: cmweb.ilike.alibaba.com
 0 cn-gmtdmp.mookie1.com
 :: cn-gmtdmp.mookie1.com
+0 cn.applogy.com
+:: cn.applogy.com
 0 cn.criteo.com
 :: cn.criteo.com
 0 cn.img.adon.vpon.com
@@ -13828,6 +13874,8 @@
 :: counter.24log.es
 0 counter.24log.fr
 :: counter.24log.fr
+0 counter.24log.it
+:: counter.24log.it
 0 counter.avtoindex.com
 :: counter.avtoindex.com
 0 counter.bloke.com
@@ -14544,6 +14592,8 @@
 :: d2.shared.global.fastly.net
 0 d2.sina.com.cn
 :: d2.sina.com.cn
+0 d24ak3f2b.top
+:: d24ak3f2b.top
 0 d25jbgvg9kmxad.cloudfront.net
 :: d25jbgvg9kmxad.cloudfront.net
 0 d2bgg7rjywcwsy.cloudfront.net
@@ -14882,6 +14932,8 @@
 :: de.inmobi.com
 0 de.rayjump.com
 :: de.rayjump.com
+0 de.stripchat.com
+:: de.stripchat.com
 0 de.tynt.com
 :: de.tynt.com
 0 de.youwinnowde.club
@@ -15230,6 +15282,8 @@
 :: dianomi.com
 0 dianomioffers.co.uk
 :: dianomioffers.co.uk
+0 diapi.webgains.com
+:: diapi.webgains.com
 0 dicks-sporting-goods.pxf.io
 :: dicks-sporting-goods.pxf.io
 0 dickssportinggoods.demdex.net
@@ -16022,6 +16076,8 @@
 :: e11100.g.akamaiedge.net
 0 e1151.e12.akamaiedge.net
 :: e1151.e12.akamaiedge.net
+0 e1bl1t39c4.com
+:: e1bl1t39c4.com
 0 e2.cdn.qnsr.com
 :: e2.cdn.qnsr.com
 0 e2.emediate.se
@@ -17542,6 +17598,8 @@
 :: flurry.gycs.b.yahoodns.net
 0 flv.bn.netease.com
 :: flv.bn.netease.com
+0 flvs7ql3l6.com
+:: flvs7ql3l6.com
 0 flyertown.ca
 :: flyertown.ca
 0 flygo.ru
@@ -18136,6 +18194,8 @@
 :: gatr.hit.gemius.pl
 0 gaug.es
 :: gaug.es
+0 gawqy.adsb4trk.com
+:: gawqy.adsb4trk.com
 0 gayadnetwork.com
 :: gayadnetwork.com
 0 gb-d.openx.net
@@ -18252,6 +18312,8 @@
 :: geoconfig.otherlevels.com
 0 geoip-api.cleverpush.com
 :: geoip-api.cleverpush.com
+0 geoip-js.com
+:: geoip-js.com
 0 geoip.businessinsider.com
 :: geoip.businessinsider.com
 0 geoip.fotoable.net
@@ -18284,6 +18346,8 @@
 :: german-linkindex.de
 0 geshopimg.logsss.com
 :: geshopimg.logsss.com
+0 get.mirando.de
+:: get.mirando.de
 0 get.optad360.io
 :: get.optad360.io
 0 get.s-onetag.com
@@ -18494,6 +18558,8 @@
 :: go.apptimize.com
 0 go.apptrk.io
 :: go.apptrk.io
+0 go.cm-trk3.com
+:: go.cm-trk3.com
 0 go.conversantmedia.com
 :: go.conversantmedia.com
 0 go.fullstory.com
@@ -18534,6 +18600,8 @@
 :: go.pub2srv.com
 0 go.pushnative.com
 :: go.pushnative.com
+0 go.schjmp.com
+:: go.schjmp.com
 0 go.searchlock.com
 :: go.searchlock.com
 0 go.shareaholic.com
@@ -18720,8 +18788,6 @@
 :: graph.instagram.com
 0 graphics.pop6.com
 :: graphics.pop6.com
-0 graphql.api.dailymotion.com
-:: graphql.api.dailymotion.com
 0 graphql.groovehq.com
 :: graphql.groovehq.com
 0 graphs.amung.us
@@ -18958,6 +19024,8 @@
 :: hades.getsocial.im
 0 hades.srvtrck.com
 :: hades.srvtrck.com
+0 hadspms.com
+:: hadspms.com
 0 haibao.huoban.taobao.com
 :: haibao.huoban.taobao.com
 0 hajoopteg.com
@@ -19014,6 +19082,8 @@
 :: havenwrite.com
 0 hawebs.adform.com
 :: hawebs.adform.com
+0 hazicu.hothomefuck.com
+:: hazicu.hothomefuck.com
 0 hb-247.com
 :: hb-247.com
 0 hb-config.vntsm.com
@@ -19454,6 +19524,8 @@
 :: hubert.iad-03.braze.com
 0 hubspot.com
 :: hubspot.com
+0 hubtraffic.com
+:: hubtraffic.com
 0 huffingtonpost.crwdcntrl.net
 :: huffingtonpost.crwdcntrl.net
 0 huidakms.com.cn
@@ -19860,6 +19932,8 @@
 :: idsync.rlcdn.com
 0 idtargeting.com
 :: idtargeting.com
+0 ie8eamus.com
+:: ie8eamus.com
 0 ientrymail.com
 :: ientrymail.com
 0 iesnare.com
@@ -19912,10 +19986,10 @@
 :: ilbanner.com
 0 ilead.itrack.it
 :: ilead.itrack.it
-0 iliillliO00OO0.321.cn
-:: iliilllio00oo0.321.cn
-0 iliillliO00OO0.321.cn
-:: iliilllio00oo0.321.cn
+0 iliilllio00oo0.321.cn
+:: iliillliO00OO0.321.cn
+0 iliilllio00oo0.321.cn
+:: iliillliO00OO0.321.cn
 0 illfatedsnail.com
 :: illfatedsnail.com
 0 illicium.web.money
@@ -20102,6 +20176,8 @@
 :: img-cloudflare-2.haizap.com
 0 img-cloudflare.haizap.com
 :: img-cloudflare.haizap.com
+0 img-eu.stripst.com
+:: img-eu.stripst.com
 0 img.3lift.com
 :: img.3lift.com
 0 img.adbox.sina.com.cn
@@ -20210,6 +20286,8 @@
 :: img.steepto.com
 0 img.store.sogou.com
 :: img.store.sogou.com
+0 img.stripst.com
+:: img.stripst.com
 0 img.turn.com
 :: img.turn.com
 0 img.uu1001.cn
@@ -20372,6 +20450,8 @@
 :: impactradius-go.com
 0 impactradius.com
 :: impactradius.com
+0 impactserving.com
+:: impactserving.com
 0 impl.onscroll.com
 :: impl.onscroll.com
 0 impl.us.onscroll.com
@@ -21004,6 +21084,8 @@
 :: ip.ro
 0 ip.taobao.com
 :: ip.taobao.com
+0 ip106520231.ahcdn.com
+:: ip106520231.ahcdn.com
 0 ip193.cn
 :: ip193.cn
 0 ip2.casalemedia.com
@@ -21280,8 +21362,6 @@
 :: jice.admaster.com.cn
 0 jinkads.de
 :: jinkads.de
-0 jita.rtk.io
-:: jita.rtk.io
 0 jivox.com
 :: jivox.com
 0 jiwire.com
@@ -21410,6 +21490,8 @@
 :: js.idio.co
 0 js.matheranalytics.com
 :: js.matheranalytics.com
+0 js.maxmind.com
+:: js.maxmind.com
 0 js.mgid.com
 :: js.mgid.com
 0 js.moatads.com
@@ -22944,6 +23026,8 @@
 :: m1.fwmrm.net
 0 m1.mgogo.com
 :: m1.mgogo.com
+0 m1.nsimg.net
+:: m1.nsimg.net
 0 m1.webstats4u.com
 :: m1.webstats4u.com
 0 m1.zedo.com
@@ -23134,6 +23218,8 @@
 :: main.dynsrvcab.com
 0 main.exoclick.com
 :: main.exoclick.com
+0 main.realsrv.com
+:: main.realsrv.com
 0 mainadv.com
 :: mainadv.com
 0 mainroll.com
@@ -24150,6 +24236,8 @@
 :: minutemedia-d.openx.net
 0 mirago.com
 :: mirago.com
+0 mirando.de
+:: mirando.de
 0 mirraw.pushengage.com
 :: mirraw.pushengage.com
 0 mirrordigital-d.openx.net
@@ -25184,6 +25272,8 @@
 :: nagawin.com
 0 nagrande.com
 :: nagrande.com
+0 nah9v7mdppff.com
+:: nah9v7mdppff.com
 0 naiadsystems.com
 :: naiadsystems.com
 0 naj.sk
@@ -25508,6 +25598,8 @@
 :: nhvw3-ee61f.ads.tremorhub.com
 0 nhvw3-uz8ne.ads.tremorhub.com
 :: nhvw3-uz8ne.ads.tremorhub.com
+0 ni6cdwf6w5xr.com
+:: ni6cdwf6w5xr.com
 0 nic.ad.jp
 :: nic.ad.jp
 0 nicheads.com
@@ -25542,6 +25634,8 @@
 :: ninthdecimal.com
 0 nirror.abtasty.com
 :: nirror.abtasty.com
+0 nisturers-flences.com
+:: nisturers-flences.com
 0 nitmus.com
 :: nitmus.com
 0 nitratory.com
@@ -25586,6 +25680,8 @@
 :: nl02.net
 0 nlog.droid4x.cn
 :: nlog.droid4x.cn
+0 nlp14.kionti.de
+:: nlp14.kionti.de
 0 nmcdn.us
 :: nmcdn.us
 0 nmetrics.samsung.com
@@ -25894,6 +25990,8 @@
 :: nt-cdn.coccoc.com
 0 nt-es.imrworldwide.com
 :: nt-es.imrworldwide.com
+0 nt.smartclick.net
+:: nt.smartclick.net
 0 ntent.com
 :: ntent.com
 0 ntes-analytics.163.com
@@ -25984,6 +26082,8 @@
 :: o0e.ru
 0 o1.qnsr.com
 :: o1.qnsr.com
+0 o1gbw4vvne.kameleoon.eu
+:: o1gbw4vvne.kameleoon.eu
 0 oa.hierstar.net
 :: oa.hierstar.net
 0 oainternetservices.com
@@ -26146,6 +26246,8 @@
 :: ol.at.atwola.com
 0 ol.jp.at.atwola.com
 :: ol.jp.at.atwola.com
+0 olavivo.go2cloud.org
+:: olavivo.go2cloud.org
 0 olb.pns.kt.com
 :: olb.pns.kt.com
 0 olc.yodo1api.com
@@ -26764,6 +26866,8 @@
 :: p-jp-elb-inmobi.cinarra.com
 0 p-v2.presage.io
 :: p-v2.presage.io
+0 p.1ts11.top
+:: p.1ts11.top
 0 p.ace.advertising.com
 :: p.ace.advertising.com
 0 p.acxiom-online.com
@@ -26824,6 +26928,8 @@
 :: p.midasplayer.com
 0 p.mobilebanner.ru
 :: p.mobilebanner.ru
+0 p.pa4ka.com
+:: p.pa4ka.com
 0 p.parrable.com
 :: p.parrable.com
 0 p.placed.com
@@ -26874,6 +26980,8 @@
 :: p22.atemda.com
 0 p232207.clksite.com
 :: p232207.clksite.com
+0 p242.tstobkl.pro
+:: p242.tstobkl.pro
 0 p25433.clksite.com
 :: p25433.clksite.com
 0 p287.atemda.com
@@ -27012,6 +27120,8 @@
 :: pages.virt.s7.exacttarget.com
 0 pagesinxt.com
 :: pagesinxt.com
+0 pagiwp.com
+:: pagiwp.com
 0 paidonresults.net
 :: paidonresults.net
 0 paidsearchexperts.com
@@ -27232,6 +27342,8 @@
 :: pb.media01.eu
 0 pb.sogou.com
 :: pb.sogou.com
+0 pb5oqguywycj.com
+:: pb5oqguywycj.com
 0 pba.aws.lijit.com
 :: pba.aws.lijit.com
 0 pbd.sogou.com
@@ -27320,8 +27432,6 @@
 :: peakclick.com
 0 pebblemedia.be
 :: pebblemedia.be
-0 pebed.dm.gg
-:: pebed.dm.gg
 0 peemee.com
 :: peemee.com
 0 peep-auktion.de
@@ -27760,6 +27870,8 @@
 :: pl1.ha1.yumenetworks.com
 0 pl15020719.pvclouds.com
 :: pl15020719.pvclouds.com
+0 pl15041056.pvclouds.com
+:: pl15041056.pvclouds.com
 0 placebubble.gimbal.com
 :: placebubble.gimbal.com
 0 placements.tapjoy.com
@@ -28548,6 +28660,8 @@
 :: ps.l.admedo.com
 0 ps.popcash.net
 :: ps.popcash.net
+0 ps0z.com
+:: ps0z.com
 0 ps7894.com
 :: ps7894.com
 0 psa-d.openx.com
@@ -28900,6 +29014,8 @@
 :: pxgp2.adpredictive.com
 0 pxl.jivox.com
 :: pxl.jivox.com
+0 pxl.tsyndicate.com
+:: pxl.tsyndicate.com
 0 pyxis.iad.appboy.com
 :: pyxis.iad.appboy.com
 0 pzkqiwezugsucg.com
@@ -29490,8 +29606,6 @@
 :: redirect2719.ws
 0 redirectnative.com
 :: redirectnative.com
-0 redirector.gvt1.com
-:: redirector.gvt1.com
 0 redirectpopads.com
 :: redirectpopads.com
 0 redirectvoluum.com
@@ -29988,6 +30102,8 @@
 :: roletaryk.info
 0 romance-net.com
 :: romance-net.com
+0 roomimg.stream.highwebmedia.com
+:: roomimg.stream.highwebmedia.com
 0 roosterfirework.com
 :: roosterfirework.com
 0 root-c3-ca2-ev-2009.ocsp.d-trust.net
@@ -30610,6 +30726,8 @@
 :: s2s.startappelb.com
 0 s2s.startappnetwork.com
 :: s2s.startappnetwork.com
+0 s2s.yieldlove-ad-serving.net
+:: s2s.yieldlove-ad-serving.net
 0 s3-config.samsungacr.com
 :: s3-config.samsungacr.com
 0 s3-media4.fl.yelpcdn.com
@@ -30992,6 +31110,8 @@
 :: sd.turn.com
 0 sdc.cnn.com
 :: sdc.cnn.com
+0 sdg.fwtrck.com
+:: sdg.fwtrck.com
 0 sdk-03.iad.appboy.com
 :: sdk-03.iad.appboy.com
 0 sdk-ads.bidmotion.com
@@ -31410,6 +31530,8 @@
 :: search.media.net
 0 search.spotxchange.com
 :: search.spotxchange.com
+0 search.srvtrck.com
+:: search.srvtrck.com
 0 search8.taobao.com
 :: search8.taobao.com
 0 searchfeast.com
@@ -31440,6 +31562,8 @@
 :: secondscreenindexer.adswizz.com
 0 secondstreetmedia.com
 :: secondstreetmedia.com
+0 secret-flirts.com
+:: secret-flirts.com
 0 secretivecub.com
 :: secretivecub.com
 0 secretosite.cleverpush.com
@@ -31560,6 +31684,8 @@
 :: securelogin4.funnyjunk.com
 0 securemetrics.apple.com
 :: securemetrics.apple.com
+0 securepaths.com
+:: securepaths.com
 0 securepubads.g.doubleclick.net
 :: securepubads.g.doubleclick.net
 0 securev-gb.mobilexpression.com
@@ -32016,6 +32142,8 @@
 :: sg.mmstat.com
 0 sg.rayjump.com
 :: sg.rayjump.com
+0 sg.xclick24.com
+:: sg.xclick24.com
 0 sg01.adywind.com
 :: sg01.adywind.com
 0 sg01.midosoo.com
@@ -32350,6 +32478,8 @@
 :: sk-gmtdmp.mookie1.com
 0 skai.iad-03.braze.com
 :: skai.iad-03.braze.com
+0 skeetads.com
+:: skeetads.com
 0 skimlinks.com
 :: skimlinks.com
 0 skimresources.com
@@ -32842,6 +32972,8 @@
 :: splut.com
 0 spnet5.i-mobile.co.jp
 :: spnet5.i-mobile.co.jp
+0 spo7h3ktdvy5.com
+:: spo7h3ktdvy5.com
 0 spolecznosci-d.openx.net
 :: spolecznosci-d.openx.net
 0 spongecell.com
@@ -33004,6 +33136,8 @@
 :: srvpub.com
 0 srvtrck.com
 :: srvtrck.com
+0 srvtrk.com
+:: srvtrk.com
 0 srwww1.com
 :: srwww1.com
 0 srx.com.sg
@@ -33196,6 +33330,8 @@
 :: st.polyad.net
 0 st.se.360.cn
 :: st.se.360.cn
+0 st.stripcdn.com
+:: st.stripcdn.com
 0 st.top100.ru
 :: st.top100.ru
 0 stable.app.optimizely.com
@@ -34092,6 +34228,8 @@
 :: strikeiron.com
 0 strip.taobaocdn.com
 :: strip.taobaocdn.com
+0 stripchat.com
+:: stripchat.com
 0 stripedburst.com
 :: stripedburst.com
 0 strivesidewalk.com
@@ -34562,6 +34700,8 @@
 :: t.parrable.com
 0 t.pusk.ru
 :: t.pusk.ru
+0 t.riverhit.com
+:: t.riverhit.com
 0 t.sharethis.com
 :: t.sharethis.com
 0 t.singular.net
@@ -35412,6 +35552,8 @@
 :: tk.baidu.com
 0 tk.optaim.com
 :: tk.optaim.com
+0 tk6if76q.ab1n.net
+:: tk6if76q.ab1n.net
 0 tkbo.com
 :: tkbo.com
 0 tkcatwalk.aotter.net
@@ -35888,6 +36030,8 @@
 :: track.contently.com
 0 track.contiamo.com
 :: track.contiamo.com
+0 track.cpamatica.com
+:: track.cpamatica.com
 0 track.cpitraffic.com
 :: track.cpitraffic.com
 0 track.crowmobi.com
@@ -37184,6 +37328,8 @@
 :: twinpine.adatrix.com
 0 twinpinenetwork.com
 :: twinpinenetwork.com
+0 twinrdsrv.com
+:: twinrdsrv.com
 0 twistads.com
 :: twistads.com
 0 twittad.com
@@ -37252,6 +37398,8 @@
 :: u3.vodone.com
 0 u3s.mathtag.com
 :: u3s.mathtag.com
+0 u3y8v8u2.ackcdn.net
+:: u3y8v8u2.ackcdn.net
 0 ua.inmobi.com
 :: ua.inmobi.com
 0 ua.supersonicads.com
@@ -37332,6 +37480,8 @@
 :: uetv.adj.st
 0 ueuerea.com
 :: ueuerea.com
+0 ufow9xfashbm.com
+:: ufow9xfashbm.com
 0 ufraton.com
 :: ufraton.com
 0 ufz.doesxyz.com
@@ -38466,6 +38616,10 @@
 :: vip-vip-vup.com
 0 vip.adstatic.com
 :: vip.adstatic.com
+0 vip.oxo2go.com
+:: vip.oxo2go.com
+0 vip1.afdorigin-ffdod-bd01.afdogw.us
+:: vip1.afdorigin-ffdod-bd01.afdogw.us
 0 vipcpms.com
 :: vipcpms.com
 0 viplocal-hookups2.com
@@ -39114,6 +39268,8 @@
 :: widget-css.subiz.com
 0 widget-mediator.zopim.com
 :: widget-mediator.zopim.com
+0 widget.civey.com
+:: widget.civey.com
 0 widget.crowdynews.com
 :: widget.crowdynews.com
 0 widget.engageya.com
@@ -39160,6 +39316,8 @@
 :: widgets.pinterest.com
 0 widgets.progrids.com
 :: widgets.progrids.com
+0 widgets.stripst.com
+:: widgets.stripst.com
 0 widgets.trustedshops.com
 :: widgets.trustedshops.com
 0 widgetserver.com
@@ -39434,6 +39592,8 @@
 :: wtanalytics-a.akamaihd.net
 0 wtcimageresizer.webtradecenter.com
 :: wtcimageresizer.webtradecenter.com
+0 wtdome.com
+:: wtdome.com
 0 wtlive.com
 :: wtlive.com
 0 wunderloop.net
@@ -39468,6 +39628,8 @@
 :: wwserch43.biz
 0 wwtdd.tags.crwdcntrl.net
 :: wwtdd.tags.crwdcntrl.net
+0 wwv.triff-mich-heute.com
+:: wwv.triff-mich-heute.com
 0 wwv4ez0n.com
 :: wwv4ez0n.com
 0 www-banner.chat.ru
@@ -39994,6 +40156,8 @@
 :: www.guohead.com
 0 www.gyswad.com
 :: www.gyswad.com
+0 www.h1.he7ll.com
+:: www.h1.he7ll.com
 0 www.hao123.com
 :: www.hao123.com
 0 www.hdsp.co
@@ -40228,6 +40392,8 @@
 :: www.motiveinteractive.com
 0 www.movable-ink-2183.com
 :: www.movable-ink-2183.com
+0 www.movcpm.com
+:: www.movcpm.com
 0 www.msales.com
 :: www.msales.com
 0 www.mutuza.win
@@ -40718,6 +40884,8 @@
 :: www35t.glam.com
 0 www3738.rapidvideo.com
 :: www3738.rapidvideo.com
+0 www3secure.com
+:: www3secure.com
 0 www4.cbox.ws
 :: www4.cbox.ws
 0 www4.smartadserver.com
@@ -40834,6 +41002,8 @@
 :: xiaoyouxi.360.cn
 0 ximad.com
 :: ximad.com
+0 xioodnxc1p1a.com
+:: xioodnxc1p1a.com
 0 xiti.com
 :: xiti.com
 0 xius.com
@@ -40862,6 +41032,8 @@
 :: xml.adx1.com
 0 xml.adxnexus.com
 :: xml.adxnexus.com
+0 xml.auxml.com
+:: xml.auxml.com
 0 xml.ezmob.com
 :: xml.ezmob.com
 0 xml.ioam.de
@@ -40964,6 +41136,8 @@
 :: yax-winners-us-east-1-rtb.adroll.com
 0 yax-winners-us-west-2-rtb.adroll.com
 :: yax-winners-us-west-2-rtb.adroll.com
+0 yb7a1bb6k1.com
+:: yb7a1bb6k1.com
 0 ybrantdigital.com
 :: ybrantdigital.com
 0 yc-ads.s3.amazonaws.com
@@ -41352,6 +41526,8 @@
 :: zumobi.com
 0 zwaar.org
 :: zwaar.org
+0 zxa4kxw2nvox.com
+:: zxa4kxw2nvox.com
 0 zxxds.net
 :: zxxds.net
 0 zy16eoat1w.com
