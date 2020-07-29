@@ -2,8 +2,8 @@
 #
 #  Ultimate Host List for Mobile Adblockers (Focused on iOS)
 #
-#  Entries     | 14971
-#  Last update | July 26th 2020
+#  Entries     | 14998
+#  Last update | July 28th 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 
 127.0.0.1       localhost
@@ -2546,6 +2546,8 @@
 :: ads.kontextua.com
 0 ads.krawall.de
 :: ads.krawall.de
+0 ads.leovegas.com
+:: ads.leovegas.com
 0 ads.lesbianpersonals.com
 :: ads.lesbianpersonals.com
 0 ads.lfstmedia.com
@@ -5626,6 +5628,8 @@
 :: api.restartad.com
 0 api.rhombusads.com
 :: api.rhombusads.com
+0 api.rlcdn.com
+:: api.rlcdn.com
 0 api.rqmob.com
 :: api.rqmob.com
 0 api.rvuzov.ru
@@ -7936,6 +7940,8 @@
 :: c.quantserve.com
 0 c.r10.mopub.com
 :: c.r10.mopub.com
+0 c.ratrck.com
+:: c.ratrck.com
 0 c.richmetrics.com
 :: c.richmetrics.com
 0 c.rigelink.com
@@ -8322,6 +8328,8 @@
 :: cdn-image.com
 0 cdn-lb.vungle.com
 :: cdn-lb.vungle.com
+0 cdn-magiclinks.trackonomics.net
+:: cdn-magiclinks.trackonomics.net
 0 cdn-o7.outfit7.com
 :: cdn-o7.outfit7.com
 0 cdn-origin.woopra.com
@@ -8536,6 +8544,8 @@
 :: cdn.hiido.com
 0 cdn.hot-mob.com
 :: cdn.hot-mob.com
+0 cdn.imhd.io
+:: cdn.imhd.io
 0 cdn.impactengine.com
 :: cdn.impactengine.com
 0 cdn.indicative.com
@@ -8656,6 +8666,8 @@
 :: cdn.pardot.com
 0 cdn.parsely.com
 :: cdn.parsely.com
+0 cdn.permutive.com
+:: cdn.permutive.com
 0 cdn.perzonalization.com
 :: cdn.perzonalization.com
 0 cdn.platform.openx.com
@@ -8664,6 +8676,8 @@
 :: cdn.plyr.io
 0 cdn.podigee.com
 :: cdn.podigee.com
+0 cdn.polyfill.io
+:: cdn.polyfill.io
 0 cdn.popcash.net
 :: cdn.popcash.net
 0 cdn.promotionengine.com
@@ -9726,6 +9740,8 @@
 :: cold.localytics.com
 0 cold2.53.localytics.com
 :: cold2.53.localytics.com
+0 collab.apps.mil
+:: collab.apps.mil
 0 collect-ap-northeast-1.tealiumiq.com
 :: collect-ap-northeast-1.tealiumiq.com
 0 collect-ap-southeast-2.tealiumiq.com
@@ -9874,6 +9890,8 @@
 :: company-target.com
 0 comparends.pro
 :: comparends.pro
+0 completehatch.com
+:: completehatch.com
 0 complex-media-d.openx.net
 :: complex-media-d.openx.net
 0 component.p7s1.com
@@ -10454,6 +10472,8 @@
 :: crowdgravity.com
 0 crownclam.com
 :: crownclam.com
+0 crrepo.com
+:: crrepo.com
 0 crtv.mate1.com
 :: crtv.mate1.com
 0 crunchmind-d.openx.net
@@ -10674,6 +10694,8 @@
 :: d1.hadarone.com
 0 d1434efe2b199612ceb1692ee6b5c79c.lswcdn.net
 :: d1434efe2b199612ceb1692ee6b5c79c.lswcdn.net
+0 d1exbt14vyjc4u.cloudfront.net
+:: d1exbt14vyjc4u.cloudfront.net
 0 d1ks8roequxbwa.cloudfront.net
 :: d1ks8roequxbwa.cloudfront.net
 0 d1nx2jii03b4ju.cloudfront.net
@@ -10890,6 +10912,8 @@
 :: dc541.s407.meetrics.net
 0 dc5k8fg5ioc8s.cloudfront.net
 :: dc5k8fg5ioc8s.cloudfront.net
+0 dc8xl0ndzn2cb.cloudfront.net
+:: dc8xl0ndzn2cb.cloudfront.net
 0 dca-v4.pops.fastly-insights.com
 :: dca-v4.pops.fastly-insights.com
 0 dcc2.segmentify.com
@@ -11008,6 +11032,8 @@
 :: deezer.deliveryengine.adswizz.com
 0 defymedia-d.openx.net
 :: defymedia-d.openx.net
+0 deindealheute.de
+:: deindealheute.de
 0 del.blueadsrv.com
 :: del.blueadsrv.com
 0 delb5.cxense.com
@@ -11426,6 +11452,8 @@
 :: dnads.directnic.com
 0 dnm.scloud.lfengmobile.com
 :: dnm.scloud.lfengmobile.com
+0 dnn506yrbagrg.cloudfront.net
+:: dnn506yrbagrg.cloudfront.net
 0 dns-01.ns.aol.com
 :: dns-01.ns.aol.com
 0 dns-02.ns.aol.com
@@ -11928,6 +11956,8 @@
 :: emarketer.com
 0 emarketing.eclick.vn
 :: emarketing.eclick.vn
+0 embed.bannerflow.com
+:: embed.bannerflow.com
 0 embed.tagboard.com.herokudns.com
 :: embed.tagboard.com.herokudns.com
 0 embed.tempest-identity.prod.saymedia.com
@@ -13174,6 +13204,8 @@
 :: g.koowo.com
 0 g.kuwo.cn
 :: g.kuwo.cn
+0 g.mobilegetscene.xyz
+:: g.mobilegetscene.xyz
 0 g.opt8.co
 :: g.opt8.co
 0 g0.doubleclick.net
@@ -13346,6 +13378,8 @@
 :: genieeintl-d.openx.net
 0 genieessp.com
 :: genieessp.com
+0 geniusdexchange.com
+:: geniusdexchange.com
 0 geo-content.otherlevels.com
 :: geo-content.otherlevels.com
 0 geo-locate.appspot.com
@@ -15464,6 +15498,8 @@
 :: ipv4alt.antibot.cloud
 0 ipv4main.antibot.cloud
 :: ipv4main.antibot.cloud
+0 ipv4only.arpa
+:: ipv4only.arpa
 0 ipv6.adrta.com
 :: ipv6.adrta.com
 0 ipw.metadsp.co.uk
@@ -15684,6 +15720,8 @@
 :: js-sdk.atom-data.io
 0 js-sec.casalemedia.com
 :: js-sec.casalemedia.com
+0 js-sec.indexww.com
+:: js-sec.indexww.com
 0 js.ad-score.com
 :: js.ad-score.com
 0 js.ad-stir.com
@@ -16250,6 +16288,8 @@
 :: ligatus.com
 0 ligatus.de
 :: ligatus.de
+0 lightboxapi.azurewebsites.net
+:: lightboxapi.azurewebsites.net
 0 lightningcast.net
 :: lightningcast.net
 0 lightspeedcash.com
@@ -16362,6 +16402,8 @@
 :: load.exelator.com
 0 load.fra2.exelator.com
 :: load.fra2.exelator.com
+0 load.instinctiveads.com
+:: load.instinctiveads.com
 0 load.nrt1.exelator.com
 :: load.nrt1.exelator.com
 0 load.sjc1.exelator.com
@@ -16390,8 +16432,6 @@
 :: loadus.exelator.com
 0 loadus.tm.ssl.exelator.com
 :: loadus.tm.ssl.exelator.com
-0 loca.sc-jpl.com
-:: loca.sc-jpl.com
 0 local-analytics.uberinternal.com
 :: local-analytics.uberinternal.com
 0 local.ownlocal.com
@@ -17680,6 +17720,8 @@
 :: microstatic.pl
 0 microticker.com
 :: microticker.com
+0 mid.rkdms.com
+:: mid.rkdms.com
 0 midasplayer.com
 :: midasplayer.com
 0 midnightclicking.com
@@ -20540,6 +20582,8 @@
 :: pls.crispadvertising.com
 0 plugin.2easydroid.com
 :: plugin.2easydroid.com
+0 plugin.mediavoice.com
+:: plugin.mediavoice.com
 0 plugrush.com
 :: plugrush.com
 0 pm-gateway.supersonicads.com
@@ -20778,6 +20822,8 @@
 :: prebid-server.rubiconproject.com
 0 prebid.adnxs.com
 :: prebid.adnxs.com
+0 prebid.digitru.st
+:: prebid.digitru.st
 0 prebid.districtm.ca
 :: prebid.districtm.ca
 0 prebid.media.net
@@ -21236,6 +21282,8 @@
 :: purch-match.dotomi.com
 0 purch-sync.go.sonobi.com
 :: purch-sync.go.sonobi.com
+0 purpledev-d.openx.net
+:: purpledev-d.openx.net
 0 purr.nytimes.com
 :: purr.nytimes.com
 0 push-api.topaz-analytics.com
@@ -24572,8 +24620,6 @@
 :: st-eu.dynamicyield.com
 0 st-euw1.dynamicyield.com
 :: st-euw1.dynamicyield.com
-0 st-lb.sc-jpl.com
-:: st-lb.sc-jpl.com
 0 st-n.ads1-adnow.com
 :: st-n.ads1-adnow.com
 0 st-n.ads2-adnow.com
@@ -25138,8 +25184,6 @@
 :: stats.mirrorfootball.co.uk
 0 stats.mobincube.com
 :: stats.mobincube.com
-0 stats.nba.com.edgekey.net
-:: stats.nba.com.edgekey.net
 0 stats.netsolads.com
 :: stats.netsolads.com
 0 stats.olark.com
@@ -25692,6 +25736,8 @@
 :: t.sharethis.com
 0 t.singular.net
 :: t.singular.net
+0 t.skimresources.com
+:: t.skimresources.com
 0 t.teads.tv
 :: t.teads.tv
 0 t.tpctrust.com
@@ -28576,6 +28622,8 @@
 :: vt.ipinyou.com
 0 vt.myvisualiq.net
 :: vt.myvisualiq.net
+0 vtrk.doubleverify.com
+:: vtrk.doubleverify.com
 0 vu.moatads.com
 :: vu.moatads.com
 0 vu.vrtzads.com
@@ -28628,8 +28676,6 @@
 :: wa.koowo.com
 0 wa.kuwo.cn
 :: wa.kuwo.cn
-0 wa.me
-:: wa.me
 0 wa.metro.co.uk
 :: wa.metro.co.uk
 0 wad.ojooo.com
@@ -28670,6 +28716,8 @@
 :: waust.at
 0 waves.retentionscience.com
 :: waves.retentionscience.com
+0 waws-prod-dm1-155.cloudapp.net
+:: waws-prod-dm1-155.cloudapp.net
 0 wayfairssp-d.openx.net
 :: wayfairssp-d.openx.net
 0 waytogrow-d.openx.net
@@ -29224,6 +29272,8 @@
 :: www.brightroll.com
 0 www.btserve.com
 :: www.btserve.com
+0 www.cdn925.com
+:: www.cdn925.com
 0 www.chartboost.com
 :: www.chartboost.com
 0 www.chartboost.de
@@ -29232,6 +29282,8 @@
 :: www.cheetah.com
 0 www.clickdealer.com
 :: www.clickdealer.com
+0 www.clicken.us
+:: www.clicken.us
 0 www.clickky.com
 :: www.clickky.com
 0 www.clicktripz.com
@@ -29240,6 +29292,8 @@
 :: www.cloudns.com
 0 www.codefuel.com
 :: www.codefuel.com
+0 www.consumerproductstar.com
+:: www.consumerproductstar.com
 0 www.conversantmedia.com
 :: www.conversantmedia.com
 0 www.converto.io
@@ -29288,8 +29342,6 @@
 :: www.gowide.com
 0 www.h1.he7ll.com
 :: www.h1.he7ll.com
-0 www.hdsp.co
-:: www.hdsp.co
 0 www.heyzap.com
 :: www.heyzap.com
 0 www.hibids10.com
@@ -29328,6 +29380,8 @@
 :: www.lasagneandands.com
 0 www.leadbolt.com
 :: www.leadbolt.com
+0 www.lightboxcdn.com
+:: www.lightboxcdn.com
 0 www.linkwithin.com
 :: www.linkwithin.com
 0 www.liverail.com
