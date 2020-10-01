@@ -2,13 +2,13 @@
 #
 #  A combination of two iOS Adblock lists
 #
-#  Entries     | 14758
-#  Last update | September 7th 2020
+#  Entries     | 14772
+#  Last update | October 1st 2020
 #  Info/Issues | https://github.com/BlackJack8/iOSAdblockList
 #              | https://github.com/jakejarvis/ios-trackers
 
-127.0.0.1       localhost
-255.255.255.255 broadcasthost
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
 ::1             localhost
 
 0 050y9lhe8p.com
@@ -487,6 +487,8 @@
 :: aan.speedshiftmedia.com
 0 aarki.com
 :: aarki.com
+0 aax-eu-retail-direct.amazon-adsystem.com
+:: aax-eu-retail-direct.amazon-adsystem.com
 0 aax-eu.amazon-adsystem.com
 :: aax-eu.amazon-adsystem.com
 0 aax-us-east.amazon-adsystem.com
@@ -723,6 +725,8 @@
 :: ad.24h.com.vn
 0 ad.360in.com
 :: ad.360in.com
+0 ad.360yield.com
+:: ad.360yield.com
 0 ad.71i.de
 :: ad.71i.de
 0 ad.8live.com
@@ -8207,6 +8211,8 @@
 :: cdg-v4.pops.fastly-insights.com
 0 cdlc.iadvize.com
 :: cdlc.iadvize.com
+0 cdn-a.amazon-adsystem.com
+:: cdn-a.amazon-adsystem.com
 0 cdn-a.yieldlove.com
 :: cdn-a.yieldlove.com
 0 cdn-a2-ncl.optimizely.com
@@ -8433,6 +8439,8 @@
 :: cdn.conative.de
 0 cdn.concert.io
 :: cdn.concert.io
+0 cdn.contentspread.net
+:: cdn.contentspread.net
 0 cdn.cookielaw.org
 :: cdn.cookielaw.org
 0 cdn.creative.medialytics.com
@@ -8547,6 +8555,8 @@
 :: cdn.logrocket.com
 0 cdn.logrocket.io
 :: cdn.logrocket.io
+0 cdn.luyten-98c.com
+:: cdn.luyten-98c.com
 0 cdn.m6r.eu
 :: cdn.m6r.eu
 0 cdn.madkudu.com
@@ -8901,6 +8911,8 @@
 :: celeritascdn.com
 0 cell.zhybzp.cn
 :: cell.zhybzp.cn
+0 cell3p001.eu-west-1.prod.3p.entry.video-ads.a2z.com
+:: cell3p001.eu-west-1.prod.3p.entry.video-ads.a2z.com
 0 celltick.com
 :: celltick.com
 0 celtra.com
@@ -9629,8 +9641,6 @@
 :: codepush.azurewebsites.net
 0 coed-d.openx.net
 :: coed-d.openx.net
-0 cognac-prod.appspot.com
-:: cognac-prod.appspot.com
 0 cognito-identity.us-east-1.amazonaws.com
 :: cognito-identity.us-east-1.amazonaws.com
 0 cogocast.net
@@ -9835,6 +9845,8 @@
 :: conf.smartnews-ads.com
 0 conf.xdrig.com
 :: conf.xdrig.com
+0 confiant-integrations.global.ssl.fastly.net
+:: confiant-integrations.global.ssl.fastly.net
 0 config-ltvp.inmobi.com
 :: config-ltvp.inmobi.com
 0 config.88-f.net
@@ -10637,6 +10649,8 @@
 :: d6y3.ads.pof.com
 0 d88diamond.com
 :: d88diamond.com
+0 d8rk54i4mohrb.cloudfront.net
+:: d8rk54i4mohrb.cloudfront.net
 0 da-ads.com
 :: da-ads.com
 0 da-serving.eastus.avi.idsp.inmobi.com
@@ -12657,8 +12671,6 @@
 :: finlogs.joyeggs.com
 0 fira-api.kurioapps.com
 :: fira-api.kurioapps.com
-0 firebasedynamiclinks-ipv4.googleapis.com
-:: firebasedynamiclinks-ipv4.googleapis.com
 0 firebaselogging-pa.googleapis.com
 :: firebaselogging-pa.googleapis.com
 0 firebaselogging.googleapis.com
@@ -12711,6 +12723,8 @@
 :: floodprincipal.com
 0 flowgo.com
 :: flowgo.com
+0 fls-eu.amazon-adsystem.com
+:: fls-eu.amazon-adsystem.com
 0 fls.doubleclick.net
 :: fls.doubleclick.net
 0 fluentmobile.com
@@ -13671,8 +13685,6 @@
 :: gtsdk.batmobi.net
 0 gtsmobi.com
 :: gtsmobi.com
-0 gtssl2-ocsp.geotrust.com
-:: gtssl2-ocsp.geotrust.com
 0 gu-pix.appspot.com
 :: gu-pix.appspot.com
 0 gu.dyntrk.com
@@ -13795,6 +13807,8 @@
 :: hal9000.redintelligence.net
 0 hal900018.redintelligence.net
 :: hal900018.redintelligence.net
+0 hal900026.redintelligence.net
+:: hal900026.redintelligence.net
 0 halc.iadvize.com
 :: halc.iadvize.com
 0 hao123.com.com
@@ -15401,6 +15415,8 @@
 :: its-that-easy.com
 0 itsptp.com
 :: itsptp.com
+0 itx5.smartadserver.com
+:: itx5.smartadserver.com
 0 iu.snssdk.com.edgekey.net
 :: iu.snssdk.com.edgekey.net
 0 iv.doubleclick.net
@@ -18997,8 +19013,6 @@
 :: oclasrv.com
 0 oconner.biz
 :: oconner.biz
-0 ocsp.comodoca.com
-:: ocsp.comodoca.com
 0 ocx.umeng.com
 :: ocx.umeng.com
 0 odm.nielsen.com
@@ -21393,6 +21407,8 @@
 :: reaper.pulse.inmobi.com
 0 reate.info
 :: reate.info
+0 rebel.ai
+:: rebel.ai
 0 rebootv5.adfuture.cn
 :: rebootv5.adfuture.cn
 0 rebootv5.adsunflower.com
@@ -22245,6 +22261,8 @@
 :: s0.doubleclick.net
 0 s1.2mdn.net
 :: s1.2mdn.net
+0 s1.adform.net
+:: s1.adform.net
 0 s1.doubleclick.net
 :: s1.doubleclick.net
 0 s1.download123.com
@@ -24169,6 +24187,8 @@
 :: ssl.lomadee.com
 0 ssl.msdk.qq.com
 :: ssl.msdk.qq.com
+0 ssl.pow.im
+:: ssl.pow.im
 0 ssl.quantserve.com
 :: ssl.quantserve.com
 0 ssl.supersonicads.com
@@ -26237,6 +26257,8 @@
 :: tr.iadsdk.apple.com
 0 tr.selectiveads.net
 :: tr.selectiveads.net
+0 tr.snapchat.com
+:: tr.snapchat.com
 0 tr4ck.brucelead.com
 :: tr4ck.brucelead.com
 0 tr5ck.brucelead.com
@@ -27697,6 +27719,8 @@
 :: vads.net.vn
 0 vads.vn
 :: vads.vn
+0 vaes.amazon-adsystem.com
+:: vaes.amazon-adsystem.com
 0 valegaj.com
 :: valegaj.com
 0 validate.appsflyer.com
@@ -28901,6 +28925,8 @@
 :: www.lasagneandands.com
 0 www.leadbolt.com
 :: www.leadbolt.com
+0 www.leanplum.com
+:: www.leanplum.com
 0 www.lightboxcdn.com
 :: www.lightboxcdn.com
 0 www.linkwithin.com
@@ -29087,6 +29113,8 @@
 :: www3secure.com
 0 www8.glam.com
 :: www8.glam.com
+0 www8.smartadserver.com
+:: www8.smartadserver.com
 0 wwwservices.iad.appboy.com
 :: wwwservices.iad.appboy.com
 0 wx.cname1.igexin.com
