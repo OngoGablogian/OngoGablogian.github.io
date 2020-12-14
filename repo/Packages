@@ -1,0 +1,182 @@
+Package: com.ioscreatix.sugarcane
+Version: 1.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.sugarcane_1.2-3+debug_iphoneos-arm.deb
+Size: 5640
+MD5sum: 5cca7febbf769caf3f7aea1e468520c4
+SHA1: 14ae139d68fcf2d89ed1057c7c156af3a152b3db
+SHA256: 9500cf41f7936f6d011aaf2ea2bca227c2664b5456492ff6cd1c67825900d75d
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 13
+Author: iOS Creatix, kasiimh1, baptistecdr
+Name: SugarCane
+
+Package: com.ioscreatix.sugarcane
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ioscreatix.sugarcane_1.2.2_iphoneos-arm.deb
+Size: 6170
+MD5sum: 9c63c0031b416bfb1bca3579f19173b7
+SHA1: b2218ecc62ed6066af44441388f1089854c553eb
+SHA256: 409bea76ed4113923fe735fd9797fc60deaa9ac5474947bd23b0cbb4b1099cec
+Section: Tweaks
+Description: Get percentages for the sliders in the Control Center on iOS 11, 12 & 13
+Author: iOS Creatix, kasiimh1
+Name: SugarCane
+
+Package: com.macs.nomorebanners
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Macs
+Installed-Size: 116
+Filename: ./debs/com.macs.nomorebanners_0.0.2_iphoneos-arm.deb
+Size: 3724
+MD5sum: 2aa50f5652b017beecc469007d5d5549
+SHA1: 74043a69b1e11159b65028766c0957490e9d37fb
+SHA256: 5138718db0b50573c70b7499b4e7d03a059caac3ffcdd3acbe81be297280f0bd
+Section: Tweaks
+Description: Hide those annoying "Open In App Banners"
+Author: Macs
+Name: NoMoreBanners
+
+Package: com.ongo.iconpackforviola
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.iconpackforviola_1.0.6_iphoneos-arm.deb
+Size: 5893210
+MD5sum: 3131ad90d5d6775a54c1cf86018429b4
+SHA1: 3e233215b37bdb1d84c0f626846d4d3c855f2210
+SHA256: b9d96d944e9537a652326f60f359420da22730f826d5aa73ee7d2d9f84d9e723
+Section: Themes
+Description: Additional icons for Viola, Viola Dark, and Viola Glyphs.
+Author: Ahmed Bousrih
+Icon: https://ongorepo.com/images/bossgfx.png
+Name: Icon Pack for Viola
+
+Package: com.ongo.juicepack
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.juicepack_1.0.5_iphoneos-arm.deb
+Size: 226272
+MD5sum: c57c3e69a0c3a8e3e425f96d68ca12f7
+SHA1: 5eccb6e4b94eb0e6c238de5bb43712f9e97232f4
+SHA256: a02af0a6b614ff9b0804d76aebc1138dfd1d90de6d0702dcbde94f1979253eeb
+Section: Themes
+Description: A handful of battery themes for Juice. Sourced from Spark's Discord.
+Author: Ongo
+Icon: https://ongorepo.com/images/ongojuice.png
+Name: Ongo Juice Pack
+
+Package: com.ongo.lyreccmod
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.lyreccmod_1.0.8_iphoneos-arm.deb
+Size: 517146
+MD5sum: 0746adbb84ff17452d9614fe31ac887f
+SHA1: 6bff881e005229c5a171f037578d815def66d131
+SHA256: 9a92fb7abf03ce1dc11ad00dd471871d01b74835e8bdcded4457c8b6d2a63f2e
+Section: Themes
+Description: An add-on for LyreCC that supports the LS Flashlight Icon, CCModules Pro, WhitePointModule, UserSpaceRebootModule, SettingsWidgets, Quart, and SmartRotate (partially). Also includes a theme for QuickLS that replaces the stock icons with "Viola White Glyphs" by Ahmed Bousrih.
+Author: Ahmed Bousrih
+Icon: https://ongorepo.com/images/bossgfx.png
+Name: LyreCC Mod
+
+Package: com.ongo.nintendonumbers
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.nintendonumbers_1.0.0_iphoneos-arm.deb
+Size: 24048
+MD5sum: 4c67b98e26cd04243403ce2e2f358307
+SHA1: 81dd2052e71350c7bb853bcfa8568178795691c1
+SHA256: 38392754f1935dec0cce866677c9c7b863335f15aeadca9579194b0215513cce
+Section: Themes
+Description: GameBoy, SNES, and Pokémon themes for the phone dialer & passcode screens
+Author: Ongo
+Icon: https://ongorepo.com/images/Nintondo.png
+Name: Nintendo Numbers
+
+Package: com.ongo.nintendonumbers
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.nintendonumbers_1.0.1_iphoneos-arm.deb
+Size: 40616
+MD5sum: 7f0d66fc856414d6b6f5cdb61c8067bb
+SHA1: 8d758c6fdc730ab5275efde81b8c005b6b3b84c1
+SHA256: 9bbee47500db9c47948afdf740542f3aa6c78898c09e055d29529b6bec621525
+Section: Themes
+Description: NES, SNES, SFC, GameBoy, and Pokémon themes for the passcode & phone dialer buttons.
+Icon: https://ongorepo.com/images/Nintondo.png
+Name: Nintendo Numbers
+
+Package: com.ongo.nintendonumbers
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ongo
+Filename: ./debs/com.ongo.nintendonumbers_1.0.2_iphoneos-arm.deb
+Size: 54740
+MD5sum: d395196e8d9250901dbfe5dc7c4d6424
+SHA1: ebb081376ef617e4dcc5fbd9278e1db25f650781
+SHA256: 7077891b13c5d6ef93ab3b6e75e51d19c75f4da283f3fdb5009780e7a39f5147
+Section: Themes
+Description: NES, SNES, SFC, GameBoy, and Pokémon themes for the passcode & phone dialer buttons.
+Icon: https://ongorepo.com/images/Nintondo.png
+Name: Nintendo Numbers
+
+Package: me.sukarodo.isupervisor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sukarodo <sukarodo@protonmail.com>
+Installed-Size: 64
+Filename: ./debs/me.sukarodo.isupervisor_1.0_iphoneos-arm.deb
+Size: 1260
+MD5sum: 44a439e8c2a4106a7fb81dbc09c6645f
+SHA1: c12f480e3700281acb79effb1bdfbe47bd795735
+SHA256: 6a444cf685f1a0dab1c0f22e81f883b27f6a32e62638202e3a5ff9575027af09
+Section: Tweaks
+Priority: standard
+Description: Supervises your iDevice
+Name: iSupervisor (Supervision)
+
+Package: net.nerd.iNDS
+Version: 1.10.7
+Architecture: iphoneos-arm
+Maintainer: iNDS Team <inds@nerd.net>
+Installed-Size: 25084
+Filename: ./debs/net.nerd.iNDS_1.10.7_iphoneos-arm.deb
+Size: 8410136
+MD5sum: b205abd66963d617681dc8b3bb00e072
+SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
+SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
+Section: Games
+Homepage: https://inds.nerd.net
+Description: Revival of the Nintendo DS emulator for iOS by iNDS Team
+Author: iNDS Team <inds@nerd.net>
+Name: iNDS
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
